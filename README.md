@@ -1,2 +1,1 @@
-# PrepCourse-Camilo
-Este es un repositorio del modulo 2 del prepcourse camilo
+este es una prueba de repositorio para camilo aprender
